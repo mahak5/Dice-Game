@@ -1,56 +1,57 @@
 .container {
-	width: 70%;
-	margin: auto;
-	text-align: center;
+    width: 70%;
+    margin: auto;
+    text-align: center;
 }
 
 .dice {
-	text-align: center;
-	display: inline-block;
+    text-align: center;
+    display: inline-block;
 }
 
 body {
-	background-color: #f6eec7;
+    background-color: #f5e8a9;
 }
 
 h1 {
-	margin: 30px;
-	font-family: 'Lobster', cursive;
-	text-shadow: 5px 0 #232931;
-	font-size: 8rem;
-	color: #07031a;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #03010e;
 }
 
 p {
-	font-size: 2rem;
-	color: #07031a;
-	font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    color: #07031a;
+    font-family: 'Indie Flower', cursive;
 }
 
 img {
-	width: 80%;
+    width: 80%;
 }
 
 .myButton {
-	box-shadow: 0px 1px 0px 0px #b7472a;
-	background: linear-gradient(to bottom, #f0134d 5%, #d92027 100%);
-	background-color: #f0134d;
-	border-radius: 6px;
-	border: 1px solid #d92027;
-	display: inline-block;
-	cursor: pointer;
-	color: #333333;
-	font-family: Arial;
-	font-size: 15px;
-	font-weight: bold;
-	padding: 15px 24px;
-	position: relative;
-	margin-top: 1%;
-	margin-left: 46%;
-	text-decoration: none;
-	text-shadow: 0px 1px 0px #f0134d;
+    box-shadow: 0px 1px 0px 0px #b7472a;
+    background: linear-gradient(to bottom, #f0134d 5%, #d92027 100%);
+    background-color: #f0134d;
+    border-radius: 6px;
+    border: 1px solid #b8292e;
+    display: inline-block;
+    cursor: pointer;
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px 24px;
+    position: relative;
+    margin-top: 1%;
+    margin-left: 46%;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #f0134d;
 }
+
 .myButton:hover {
-	background: linear-gradient(to bottom, #d92027 5%, #f0134d 100%);
-	background-color: #d92027;
+    background: linear-gradient(to bottom, #d92027 5%, #f0134d 100%);
+    background-color: #d92027;
 }
